@@ -22,5 +22,13 @@
     "description": "blah blah blahb lahbakskjadawd",
     "before": "./photos/rec98LCwQUb8IO9Vz-before.jpeg",
     "after": "./photos/rec98LCwQUb8IO9Vz-after.jpeg"
+  },
+  {
+    "order": 3,
+    "published": true,
+    "title": "This is a new post",
+    "description": "Testawdsd awd asd asf dsfadfsdf sdfsdf",
+    "before": "./photos/recN2223bBdgb2d5D-before.png",
+    "after": "./photos/recN2223bBdgb2d5D-after.png"
   }
 ]
